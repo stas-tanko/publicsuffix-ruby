@@ -518,6 +518,7 @@ net.bz
 org.bz
 edu.bz
 gov.bz
+co.bz
 
 // ca : https://en.wikipedia.org/wiki/.ca
 ca
